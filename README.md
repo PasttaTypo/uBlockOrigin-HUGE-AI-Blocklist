@@ -1,4 +1,7 @@
 # uBlockOrigin & uBlacklist Huge AI Blocklist
+
+Me: Thanks to @Catman-232 for the better URL filtering method
+
 A huge blocklist of sites (~950) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist. 
 
 A hosts file for pihole/adguard is available as well.
